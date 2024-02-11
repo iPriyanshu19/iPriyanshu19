@@ -2,7 +2,6 @@
 # Hi, I'm Priyanshu Sharma! 👋
 
 
-## 🚀 About Me
 I'm an Android Development enthusiast and coding away in C++, Python, and C
 
 
