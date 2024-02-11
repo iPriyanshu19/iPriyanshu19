@@ -4,7 +4,6 @@
 
 ## I'm an Android Development enthusiast and coding away in C++, Python, and C
 
-
 👩‍💻 I'm currently working on kotlin projects
 
 🧠 I'm currently learning android development
