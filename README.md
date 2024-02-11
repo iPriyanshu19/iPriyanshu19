@@ -7,8 +7,4 @@
 
 - 💬 Ask me about **C, C++, Python, Kotlin, HTML, CSS**
 
-- 📫 How to reach me **priyanshusharmakch@gmail.com**
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ipriyanshu19&show_icons=true&locale=en&layout=compact" alt="ipriyanshu19" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ipriyanshu19&show_icons=true&locale=en" alt="ipriyanshu19" /></p>
