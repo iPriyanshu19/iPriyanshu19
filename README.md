@@ -9,7 +9,7 @@
 📫 How to reach me priyanshusharmakch@gmail.com
 
 ## 🛠 Skills
-HTML, CSS, Python, Kotlin, MySQL 
+HTML, CSS, Python, Flutter, Dart, MySQL 
 
 
 ## 🔗 Links
