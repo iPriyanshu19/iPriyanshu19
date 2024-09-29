@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Flutter<br>👯 I’m looking to collaborate on Flutter Projects<br>🤝 I’m looking for help with Flutter<br>🌱 I’m currently learning Flutter Dev<br>💬 Ask me about Mobile Dev<br>⚡ Fun fact: The term "bug" for a computer glitch comes from a real-life incident in 1947 when engineers found a moth causing problems inside a Harvard Mark II computer.<br><br>
+🔭 I’m currently working on **Flutter**<br>👯 I’m looking to collaborate on **Flutter Projects**<br>🤝 I’m looking for help with **Flutter**<br>🌱 I’m currently learning **Flutter Dev**<br>💬 Ask me about **Mobile Dev**<br>⚡ Fun fact: **The term "bug" for a computer glitch comes from a real-life incident in 1947 when engineers found a moth causing problems inside a Harvard Mark II computer**<br><br>
 
 
 ## 🌐 Socials:
