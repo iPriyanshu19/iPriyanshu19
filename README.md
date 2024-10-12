@@ -4,7 +4,7 @@
 
 <h1 align="center">Priyanshu Sharma</h1>
 <h3 align="center">Android Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://github.com/user-attachments/assets/9a906626-09f2-4e75-80ec-d6e391d4846a">
+<!-- <img align="right" alt="Coding" width="400" src="https://github.com/user-attachments/assets/9a906626-09f2-4e75-80ec-d6e391d4846a"> -->
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ipriyanshu19&label=Profile%20Views&color=lightgrey&style=for-the-badge" alt="ipriyanshu19" /> </p> -->
 
 <br>
