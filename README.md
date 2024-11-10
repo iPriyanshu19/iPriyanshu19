@@ -20,7 +20,7 @@
 
 <br><br><br>
 <h3>Streak Stats:</h3>
-
+<a href="https://wakatime.com/@a9325916-dd4e-4802-acc9-ce168224d947"><img src="https://wakatime.com/badge/user/a9325916-dd4e-4802-acc9-ce168224d947.svg" alt="Total time coded since Oct 12 2024" /></a>
 <p align='center'><img src="https://github-readme-streak-stats.herokuapp.com/?user=iPriyanshu19&theme=tokyonight" alt="Priyanshu"/></p>
 
 <h3 align="left">Languages and Tools:</h3>
