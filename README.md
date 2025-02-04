@@ -4,6 +4,15 @@
 
 <h1 align="center">Priyanshu Sharma</h1>
 <h3 align="center">Android Developer</h3>
+
+<div align="center">
+  <a href="https://wakatime.com/@a9325916-dd4e-4802-acc9-ce168224d947">
+    <img src="https://wakatime.com/badge/user/a9325916-dd4e-4802-acc9-ce168224d947.svg" alt="Total time coded since Oct 12 2024" />
+  </a>
+</div>
+
+
+
 <!-- <img align="right" alt="Coding" width="400" src="https://github.com/user-attachments/assets/9a906626-09f2-4e75-80ec-d6e391d4846a"> -->
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ipriyanshu19&label=Profile%20Views&color=lightgrey&style=for-the-badge" alt="ipriyanshu19" /> </p> -->
 
@@ -19,9 +28,10 @@
 </div>
 
 <br><br><br>
+<!--
 <h3>Streak Stats:</h3>
-<a href="https://wakatime.com/@a9325916-dd4e-4802-acc9-ce168224d947"><img src="https://wakatime.com/badge/user/a9325916-dd4e-4802-acc9-ce168224d947.svg" alt="Total time coded since Oct 12 2024" /></a>
-<!-- <p align='center'><img src="https://github-readme-streak-stats.herokuapp.com/?user=iPriyanshu19&theme=tokyonight" alt="Priyanshu"/></p> -->
+<p align='center'><img src="https://github-readme-streak-stats.herokuapp.com/?user=iPriyanshu19&theme=tokyonight" alt="Priyanshu"/></p> 
+-->
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -45,7 +55,6 @@
 | Authentication | [<img src="https://img.shields.io/badge/Firebase-282C34?style=flat-square&logo=Firebase&logoColor=FFCA28" alt="Firebase" title="Firebase" height="27" />][tech_tools_anchor] |
 
 </div>
-
 
 <!---------------------------Table Ends from here --------------------------->
 
