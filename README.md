@@ -21,7 +21,7 @@
 <br><br><br>
 <h3>Streak Stats:</h3>
 <a href="https://wakatime.com/@a9325916-dd4e-4802-acc9-ce168224d947"><img src="https://wakatime.com/badge/user/a9325916-dd4e-4802-acc9-ce168224d947.svg" alt="Total time coded since Oct 12 2024" /></a>
-<p align='center'><img src="https://github-readme-streak-stats.herokuapp.com/?user=iPriyanshu19&theme=tokyonight" alt="Priyanshu"/></p>
+<!-- <p align='center'><img src="https://github-readme-streak-stats.herokuapp.com/?user=iPriyanshu19&theme=tokyonight" alt="Priyanshu"/></p> -->
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -59,6 +59,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iPriyanshu19&&size_weight=0&count_weight=1&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt=""/>
 </div>
 <!--   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=iPriyanshu19&theme=tokyonight&hide_border=true&layout=compact" alt=""/> -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iPriyanshu19&theme=tokyonight" alt=""/>
+<!--   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iPriyanshu19&theme=tokyonight" alt=""/> -->
 </p>
 </details>
