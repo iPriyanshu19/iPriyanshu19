@@ -3,7 +3,7 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Into+Android+Development;Interested+In+Blockchain;CPP+Is+%E2%9D%A4%EF%B8%8F+%5E_%5E)
 
 <h1 align="center">Priyanshu Sharma</h1>
-<h3 align="center">Android Developer</h3>
+<h3 align="center">Software Developer</h3>
 
 <div align="center">
   <a href="https://wakatime.com/@a9325916-dd4e-4802-acc9-ce168224d947">
@@ -46,13 +46,13 @@
 |---|---|
 | Programming Languages | [<img src="https://img.shields.io/badge/Dart-282C34?style=flat-square&logo=Dart&logoColor=0175C2" alt="Dart" title="Dart" height="27" />][tech_tools_anchor] [<img src="https://img.shields.io/badge/Python-282C34?style=flat-square&logo=python&logoColor=3776AB" alt="Python" title="Python" height="27" />][tech_tools_anchor] [<img src="https://img.shields.io/badge/C++-282C34?style=flat-square&logo=cplusplus&logoColor=00599C" alt="C++" title="C++" height="27" />][tech_tools_anchor] [<img src="https://img.shields.io/badge/C-282C34?style=flat-square&logo=c&logoColor=A8B9CC" alt="C" title="C" height="27" />][tech_tools_anchor] [<img src="https://img.shields.io/badge/SQL-282C34?style=flat-square&logo=mysql&logoColor=4479A1" alt="SQL" title="SQL" height="27" />][tech_tools_anchor] |
 | Database | [<img src="https://img.shields.io/badge/MySQL-282C34?logo=MySQL&style=flat-square&logoColor=4479A1" alt="MySQL" title="MySQL" height="27" />][tech_tools_anchor] [<img src="https://img.shields.io/badge/SQLite-282C34?style=flat-square&logo=SQLite&logoColor=003B57" alt="SQLite" title="SQLite" height="27" />][tech_tools_anchor] [<img src="https://img.shields.io/badge/MongoDB-282C34?logo=MongoDB&style=flat-square&logoColor=4EA94B" alt="MongoDB" title="MongoDB" height="27" />][tech_tools_anchor] |
-| Cloud & BaaS | [<img src="https://img.shields.io/badge/Firebase-282C34?style=flat-square&logo=Firebase&logoColor=FFCA28" alt="Firebase" title="Firebase" height="27" />][tech_tools_anchor] |
-| Backend Development | [<img src="https://img.shields.io/badge/Dart-282C34?style=flat-square&logo=Dart&logoColor=0175C2" alt="Dart" title="Dart" height="27" />][tech_tools_anchor] |
+| Cloud & BaaS | [<img src="https://img.shields.io/badge/Firebase-282C34?style=flat-square&logo=Firebase&logoColor=FFCA28" alt="Firebase" title="Firebase" height="27" />][tech_tools_anchor] [<img src="https://img.shields.io/badge/Supabase-282C34?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" title="Supabase" height="27" />][tech_tools_anchor] |
+| Backend Development | [<img src="https://img.shields.io/badge/Dart-282C34?style=flat-square&logo=Dart&logoColor=0175C2" alt="Dart" title="Dart" height="27" />][tech_tools_anchor] [<img src="https://img.shields.io/badge/Node%20js-282C34?style=flat-square&logo=nodedotjs&logoColor=green" alt="Node.js" title="Node.js" height="27" />][tech_tools_anchor] [<img src="https://img.shields.io/badge/Express%20js-282C34?style=flat-square&logo=express&logoColor=white" alt="Express.js" title="Express.js" height="27" />][tech_tools_anchor] |
 | Frontend Development | [<img src="https://img.shields.io/badge/Flutter-282C34?style=flat-square&logo=Flutter&logoColor=007FFF" alt="Flutter" title="Flutter" height="27" />][tech_tools_anchor] |
-| Tools/IDE | [<img src="https://img.shields.io/badge/Colab-282C34?style=flat-square&logo=googlecolab&logoColor=F9AB00" alt="Google Colab" title="Google Colab" height="27" />][tech_tools_anchor] [<img src="https://img.shields.io/badge/VS%20Code-282C34?style=flat-square&logo=Visual-studio-Code&logoColor=007ACC" alt="VS Code" title="VS Code" height="27" />][tech_tools_anchor] |
+| Tools/IDE | [<img src="https://img.shields.io/badge/VS%20Code-282C34?style=flat-square&logo=Visual-studio-Code&logoColor=007ACC" alt="VS Code" title="VS Code" height="27" />][tech_tools_anchor] [<img src="https://img.shields.io/badge/Colab-282C34?style=flat-square&logo=googlecolab&logoColor=F9AB00" alt="Google Colab" title="Google Colab" height="27" />][tech_tools_anchor] [<img src="https://img.shields.io/badge/Sublime_Text-282C34?&style=flat-square&logo=Sublime-Text&logoColor=FF9800" alt="Sublime Text" title="Sublime Text" height="27" />][tech_tools_anchor] |
 | DevOps & Version Control | [<img src="https://img.shields.io/badge/Git-282C34?style=flat-square&logo=Git&logoColor=F05032" alt="Git" title="Git" height="27" />][tech_tools_anchor] [<img src="https://img.shields.io/badge/Github-282C34?style=flat-square&logo=Github&logoColor=171515" alt="GitHub" title="GitHub" height="27" />][tech_tools_anchor] |
 | Operating System | [<img src="https://img.shields.io/badge/Windows-282C34?style=flat-square&logo=Windows&logoColor=0078D6" alt="Windows" title="Windows" height="27" />][tech_tools_anchor] |
-| Authentication | [<img src="https://img.shields.io/badge/Firebase-282C34?style=flat-square&logo=Firebase&logoColor=FFCA28" alt="Firebase" title="Firebase" height="27" />][tech_tools_anchor] |
+| Authentication | [<img src="https://img.shields.io/badge/Firebase-282C34?style=flat-square&logo=Firebase&logoColor=FFCA28" alt="Firebase" title="Firebase" height="27" />][tech_tools_anchor] [<img src="https://img.shields.io/badge/Supabase-282C34?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" title="Supabase" height="27" />][tech_tools_anchor] |
 
 </div>
 
